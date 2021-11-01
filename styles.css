@@ -1,0 +1,18 @@
+.review{
+text-transform: capitalize;
+margin-left: 180px;
+}
+#author{
+    text-transform: capitalize;
+    margin-left: 160px;
+    margin-top: auto;
+    font-size: 30px;
+}
+#job{
+    text-transform: capitalize;
+    margin-left: 160px;
+    
+}
+.img-container{
+    width: 10px;
+}
